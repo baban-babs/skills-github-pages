@@ -5,7 +5,7 @@
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+## Step 2: Process
 
 _You turned on GitHub Pages! :tada:_
 
